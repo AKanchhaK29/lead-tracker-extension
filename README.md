@@ -12,6 +12,9 @@
 ## Demo
 ![Lead Tracker Demo](images/leadTracker.png)
 
+## Live Demo
+Try it online here: [Lead Tracker Extension](https://akanchhak29.github.io/lead-tracker-extension/)
+
 ## Installation
 1. Download or clone this repository.
 2. Open Chrome and go to `chrome://extensions/`.
