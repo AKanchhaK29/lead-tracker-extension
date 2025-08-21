@@ -23,5 +23,3 @@
 - **Save Input:** Enter a URL and click **Save Input**.
 - **Save Tab:** Click **Save Tab** to save the active tab.
 - **Delete All:** Double-click **Delete All** to clear all leads.
-## Project Structure
-
